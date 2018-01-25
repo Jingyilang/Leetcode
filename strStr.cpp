@@ -17,6 +17,7 @@ public:
             if (j == needle.size()) return i;
         }
         return -1;
+// 26.76%
         
     }
 };
